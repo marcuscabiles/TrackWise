@@ -1,4 +1,4 @@
-﻿namespace LogIn
+﻿namespace TrackWise
 {
     partial class MainForm
     {

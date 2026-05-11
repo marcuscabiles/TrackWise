@@ -1,7 +1,7 @@
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
-namespace LogIn
+namespace TrackWise
 {
     public partial class LogInForm : Form
     {

@@ -1,4 +1,4 @@
-namespace LogIn
+namespace TrackWise
 {
     internal static class Program
     {

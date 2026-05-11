@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LogIn
+namespace TrackWise
 {
     public partial class MainForm : Form
     {
